@@ -5,12 +5,12 @@ A simple analysis on afcon2019 tweets. The size of the tweets is quite huge henc
 This code runs explicitly on python 3.5. I have not tested it with ~~python 2.7~~
 # Running
 You will need to have the following pre-installed in your machine or you can runn the following in your terminal (linux):
-`code(pip install pandas
-pip install wordcloud
-pip install matplotlib
-pip install  seaborn
-pip install widgets
-pip install jupyter)`
+* pip install pandas
+* pip install wordcloud
+* pip install matplotlib
+* pip install  seaborn
+* pip install widgets
+* pip install jupyter
 
 # Contributing
 Submit a pull request.
